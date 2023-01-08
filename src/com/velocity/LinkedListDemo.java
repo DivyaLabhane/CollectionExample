@@ -14,7 +14,7 @@ public class LinkedListDemo {
 			System.out.println(i);
 		}
 		
-		System.out.println("Hii");
+
 		
 	}
 
