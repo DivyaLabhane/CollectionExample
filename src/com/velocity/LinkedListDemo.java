@@ -10,8 +10,9 @@ public class LinkedListDemo {
 		list.add(1);
 		list.add(2);
 		
-		System.out.println(list);
-
+		for(Integer i : list) {
+			System.out.println(i);
+		}
 		
 	}
 
