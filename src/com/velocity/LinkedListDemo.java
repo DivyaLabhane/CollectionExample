@@ -10,10 +10,7 @@ public class LinkedListDemo {
 		list.add(1);
 		list.add(2);
 		
-		for(Integer i : list) {
-			System.out.println(i);
-		}
-		
+		System.out.println(list);
 
 		
 	}
